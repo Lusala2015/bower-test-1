@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "angularjs#^1.7.9",
-    "bootstrap" : "*"
+    "bootstrap": "*"
   }
 }
